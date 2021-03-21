@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @lukkse
 - 👀 I’m interested in Java Software developement.
 - 🌱 I’m currently learning Java, Maven, Spring.
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can contact me on my email : lkksse@gmail.com
 
 <!---
